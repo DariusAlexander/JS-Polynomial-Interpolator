@@ -12,7 +12,7 @@ Input a set of coordinates, then an X float value to calculate Y.
 
 
 Further development: 
-  - enable for multi-dimentional polynomials?
-  - define & calculate derivitives/intergrals
-  - output the costants and exponents for defined derivitive/intergral
-  - output zero-crossings/peaks/troughs
+  - enable for multi-dimensional polynomials?
+  - define & calculate derivitives/integrals
+  - output the costants and exponents for defined derivitive/integral
+  - output zero-crossings/peaks/troughs?
